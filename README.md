@@ -9,7 +9,7 @@ I don't just run campaigns: I build the product, take it live, and operate the b
 - **VisaChecker BD** — visa document verification platform · live at [visacheckerbd.com](https://visacheckerbd.com)
 - **Call N Get** — vehicle rental & logistics platform · live at [callnget.com](https://callnget.com)
 - **AdGenie** — multi-tenant ad-agency portal: live Meta Ads sync, client dashboards, invoicing, dues and receipts
-- **DaktarSab** — AI health-triage assistant for Bangladesh, with a reviewed medicine policy and safety rules; Android release published
+- **DaktarSab** — AI health-triage assistant for Bangladesh, with a reviewed medicine policy and safety rules; Android app — in internal testing on the Google Play Console (not yet public)
 - **Social Craft AI** — content command centre for creators
 
 ## What I do for clients
